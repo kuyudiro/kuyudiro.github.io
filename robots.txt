@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kuyudiro.github.io/sitemap/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/qDh/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/OTw/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/nWe/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/uHd/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/UQx/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/xVA/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/BvW/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/Cwy/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/eYa/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/xfa/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/QXd/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/AWr/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/Nhy/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/Wug/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/TAD/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/Oly/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/nyw/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/gHP/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/XES/sitemap_index.kuyudiro
+Sitemap: https://kuyudiro.github.io/aIl/sitemap_index.kuyudiro
